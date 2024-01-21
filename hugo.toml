@@ -1,0 +1,4 @@
+baseURL = 'https://www.joycewambui.com/'
+languageCode = 'en-us'
+title = "Joyce Wambui - Tech Diary"
+theme = 'mini'
